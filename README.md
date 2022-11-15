@@ -29,3 +29,8 @@ Providing support and relevant information.
 
 ### ss page :
 ![image](https://user-images.githubusercontent.com/114647191/201836206-4ecb951e-f4fa-4776-8068-fa3fdc67f3e9.png)
+
+## Languages and Azure services used in my bot:-
+- HTML
+- QnA Maker
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
