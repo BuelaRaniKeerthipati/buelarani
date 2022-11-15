@@ -22,3 +22,4 @@ Providing support and relevant information.
 ## About healthcare chatbots: 
 
 ## Screenshorts😕:
+![image](https://user-images.githubusercontent.com/114647191/201835921-a8997dd5-f3f6-4748-93c5-976d23301bb1.png)
