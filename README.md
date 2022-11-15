@@ -23,3 +23,9 @@ Providing support and relevant information.
 
 ## Screenshorts😕:
 ![image](https://user-images.githubusercontent.com/114647191/201835921-a8997dd5-f3f6-4748-93c5-976d23301bb1.png)
+ 
+## Gallery Page :
+![image](https://user-images.githubusercontent.com/114647191/201836093-8a9f6bc9-5933-4050-a7e4-7eea40466d70.png)
+
+### ss page :
+![image](https://user-images.githubusercontent.com/114647191/201836206-4ecb951e-f4fa-4776-8068-fa3fdc67f3e9.png)
